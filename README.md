@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zxankit24/zxankit24/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/zxankit24/zxankit24/output/](https://github.com/zxankit24/zxankit24/blob/main/snake.yml)https://github.com/zxankit24/zxankit24/blob/main/snake.ymlsnake.svg" alt="Snake animation" />
 
 ###
