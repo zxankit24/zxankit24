@@ -59,6 +59,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zxankit24/zxankit24/output/snake.svg" alt="Snake animation" />
 
 ###
