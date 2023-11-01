@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zxankit24" alt="zxankit24" /></a> </p>
 
-- 🌱 I’m currently learning **Flask, Django, React, NodeJs, AWS.**
+- 🌱 I’m currently learning **Flask, Django, React, NodeJs, AWS.** 
 
 - 💬 Ask me about **Python, C, C++, HTML, CSS, php, JavaScript, Tailwind and Bootstrap CSS, Flutter, Dart, Android Development, Java, MySql, Sqlite, Google Cloud, Microsoft Azure.**
 
