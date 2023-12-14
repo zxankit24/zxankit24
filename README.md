@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Flask, Django, React, NodeJs, AWS.** 
 
 - 💬 Ask me about **Python, C, C++, HTML, CSS, php, JavaScript, Tailwind and Bootstrap CSS, Flutter, Dart, Android Development, Java, MySql, Sqlite, Google Cloud, Microsoft Azure.**
-
+ 
 - 📫 How to reach me **zxankit24@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
